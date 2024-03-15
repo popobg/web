@@ -1,2 +1,2 @@
 # web
-Little projects in web langages
+Projects in web langages
